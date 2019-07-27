@@ -17,7 +17,7 @@ Given that Babel's core functionality involves transforming modern JavaScript, i
 
 
 
-## Relative source
+## Related source
 
 - [http://jsnice.org/](http://jsnice.org/)
 - [crack.js](https://github.com/jscck/crack.js)
