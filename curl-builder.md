@@ -1,6 +1,6 @@
 ## Curl builder
 
-This build using `react-jsonschema-form`.
+This tool using `react-jsonschema-form` to build.
 
 
 ## `curl -h`
