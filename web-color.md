@@ -1,6 +1,6 @@
 ## Web-safe colors
 
-n the mid-90s, many displays were only capable of displaying 256 colors.<sup id="cite_ref-11" class="reference">[[11]](https://en.wikipedia.org/wiki/Web_colors#cite_note-11)</sup> These may be dictated by the hardware or changeable by a "color table". When a color is found (e.g., in an image) that is not one available, a different one had to be used. This can be done by either using the closest color, or by using [dithering](https://en.wikipedia.org/wiki/Dither "Dither").
+In the mid-90s, many displays were only capable of displaying 256 colors.<sup id="cite_ref-11" class="reference">[[11]](https://en.wikipedia.org/wiki/Web_colors#cite_note-11)</sup> These may be dictated by the hardware or changeable by a "color table". When a color is found (e.g., in an image) that is not one available, a different one had to be used. This can be done by either using the closest color, or by using [dithering](https://en.wikipedia.org/wiki/Dither "Dither").
 
 There were various attempts to make a "standard" color palette. A set of colors was needed that could be shown without dithering on 256-color displays; the number 216 was chosen partly because computer operating systems customarily reserved sixteen to twenty colors for their own use; it was also selected because it allows exactly six equally spaced shades of red, green, and blue (6 × 6 × 6 = 216), each from 00 to FF (including both limits).
 
