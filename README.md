@@ -6,7 +6,7 @@ Tools descriptions
 ## File Name Rule
 we automatically require the directory file.
 
-```js
+```javascript
 const files = require.context("@md/", false, /\.md$/);
 const modules = {};
 files.keys().forEach(key => {
@@ -14,12 +14,12 @@ files.keys().forEach(key => {
 });
 ```
 
-```
-Url     =>  File Name  
 
-/gomoku =>  gomoku.md
+  Url     =>  File Name  
 
-```
+  /gomoku =>  gomoku.md
+
+
 
 
 
